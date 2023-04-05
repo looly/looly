@@ -1,6 +1,4 @@
-### Hi there 👋
-
-<h2 align="center">💈Looly💈</h2>
+<h2 align="center">💕Im Looly💕</h2>
 
 ![](https://raw.githubusercontent.com/looly/looly/output/github-contribution-grid-snake.svg)
 
